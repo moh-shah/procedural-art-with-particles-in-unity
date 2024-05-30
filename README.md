@@ -4,6 +4,8 @@ Maybe I start working on it again, and then it will be refactored to meet my tod
 
 -----
 
+These are some of the results I came up with:
+
 ![screen_200x200_2020-03-09_17-49-44](https://github.com/moh-shah/procedural-art-with-particles-in-unity/assets/35012433/1569f972-16a6-4d09-af9e-15f75a34751c)
 
 
